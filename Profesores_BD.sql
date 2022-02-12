@@ -1,5 +1,3 @@
-/*Cano Pérez Pedro, No. Cuenta: 2193000343*/
-
 CREATE DATABASE databasename;
 
 use profesores;
